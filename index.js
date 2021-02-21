@@ -943,15 +943,15 @@ case 'textodeneve':
 					}
 					break
                                 					case 'dono':
-if (args.length < 1) return reply('Ps Mods Canal: https://www.youtube.com/c/PsMods n/TrashфDkofcꪶ Número do meu dono😎🤙:WA.me/558494740630\n😎🤙Youtube do meu \ndono:https://youtube.com/channel/UCOqlFzRrB8IZUWUx1cwCeUw\n \nNúmero da cremosa do meu dono que ajudou a fazer o menu 😎🤙ঔৣ☬✞𝐓𝐫𝐚𝐬𝐡|𝐉𝐮𝐰 ✞☬ঔৣ: wa.me/558491093889')
-                                        break
-case 'proibido':
+if ( args . comprimento                                <                                1 ) retornar           a                                resposta ('Urya Hetero, meu dono ae, wa.me/5527996584717 chamem ae, Urya.X 0%Gay')
+                                        intervalo
+caso  'proibido' :
 if (args.length < 1) return reply('Meu dono proibiu o porno  😎🤙')
 break
 case 'bomdia':
-if (args.length < 1) return reply('Bom dia meu bom 😎🤙')
-break
-case 'boatarde':
+if ( args . length  <  1 ) return  reply ( 'Bom dia meu bom 😎🤙' )
+intervalo
+estojo     'boatarde' :
 if (args.length < 1) return reply('Boa tarde só prós do verdade😎🤙')
 break
 case 'boanoite':
